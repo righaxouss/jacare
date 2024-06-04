@@ -9,7 +9,7 @@
         }
 
         body {
-            
+            background-color: #F5F5F5;
             width: 100%;
             height: auto;
             color: #12100E;
@@ -316,7 +316,7 @@
             padding: 75px 0px 75px 0px;
         }
 
-        img{
+         main > img{
             border: 10px solid #F5F5F5;
             border-radius: 50%;
         }
@@ -381,6 +381,12 @@
         }
 
         
+        .section-2-2-img > img{
+       
+
+            border-radius: 50%;
+
+        }
 
 
 
