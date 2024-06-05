@@ -263,7 +263,7 @@
         }
 
         main section.section-1 .section-1-main .section-1-content {
-            width: 50%;
+            width: 100%;
             display: flex;
             flex-direction: column;
             row-gap: 20px;
@@ -348,6 +348,7 @@
 
         main section.section-2 .section-2-main .section-2-2 .section-2-2-content .section-2-2-title,
         main section.section-2 .section-2-main .section-2-1 .section-2-1-content .section-2-1-title {
+          
             font-size: 36px;
             line-height: 40px;
         }
@@ -382,7 +383,7 @@
 
         
         .section-2-2-img > img{
-       
+       border: #1871AE 5px solid;
 
             border-radius: 50%;
 
